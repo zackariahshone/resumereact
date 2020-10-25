@@ -1,0 +1,26 @@
+/* 
+font-family: 'Bangers', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Press Start 2P', cursive;
+font-family: 'Turret Road', cursive; */
+
+body, html{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    color: rgb(196, 131, 131);
+    font-family: 'Bangers', cursive;
+
+}
+.jumbotron{
+   background-color: rgb(196, 131, 131); 
+}
+.myBox{
+    background-color: rgb(70, 104, 102);
+    text-align: center;
+    width: 50%;
+    margin-left:20%;
+    border-radius: 15px;
+}
